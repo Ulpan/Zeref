@@ -1,4 +1,4 @@
-/* @pjs preload="jake_by_cgibi_nekokeenan=d5dfedd.gif"; */
+/* @pjs preload="8b2be1f10f9e975e614118782844bfdd.jpg"; */
   PImage b;
   void setup() {
    size(736,552);
