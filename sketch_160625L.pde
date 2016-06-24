@@ -2,7 +2,7 @@
   PImage b;
   void setup() {
    size(736,552);
- b= loadImage("https://s-media-cache-ak0.pinimg.com/736x/8b/2b/e1/8b2be1f10f9e975e614118782844bfdd.jpg");
+ b= loadImage("8b2be1f10f9e975e614118782844bfdd.jpg");
 
   }
   void draw() {
